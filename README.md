@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Vijayendra! 👋
 - 🔭 I’m an Engineering student 
 - 🌱 I’m currently leanring ML
 - 👯 I’m looking to collaborate on ML based projects
