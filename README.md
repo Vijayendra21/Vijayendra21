@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently an Engineering student 
+- 🔭 I’m an Engineering student 
 - 🌱 I’m currently leanring ML
 - 👯 I’m looking to collaborate on ML based projects
 - 🤔 I’m interested in learning Deep Leaning, AI and their various applications
